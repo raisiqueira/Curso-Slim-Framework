@@ -1,0 +1,19 @@
+{
+	"name": "Teste Slim Framework",
+	"description": "Inicio das aulas com Slim Framework",
+	"authors":[
+		{
+			"name": "Rai Siqueira",
+			"email": "rai93siqueira@gmail.com"
+		}
+	],
+
+	"require":{
+		"php-activerecord/php-activerecord": "dev-master",
+		"slim/slim": "2.*",
+		"twitter/bootstrap": "3.3.*@dev",
+		"slim/logger": "0.1.*",
+		"yusukezzz/slim-debugbar": "1.*"
+	}
+
+}
